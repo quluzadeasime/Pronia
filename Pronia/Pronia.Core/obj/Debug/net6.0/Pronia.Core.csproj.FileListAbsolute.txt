@@ -1,0 +1,11 @@
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.deps.json
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfo.cs
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.dll
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\refint\Pronia.Core.dll
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.pdb
+C:\Users\Asime\Desktop\ProniaBB207\Pronia\Pronia.Core\obj\Debug\net6.0\ref\Pronia.Core.dll
